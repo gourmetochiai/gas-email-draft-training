@@ -38,9 +38,9 @@ Gmailの下書きを自動で生成するツールです。
 
 ## 👤 作者コメント
 営業・CS向けのメール自動化トレーニングとして制作。  
-CSV・GAS・Gmailを連携し、「副業応募でも動く成果物」を目的に構築しました。
+
 
 ---
 
 ## 🔗 関連リンク
-- Notion解説ページ：[（後で作成予定）]
+- Notion解説ページ：https://www.notion.so/Gmail-GAS-2a946e3a442c80319e53de7516a49a58?showMoveTo=true&saveParent=true
